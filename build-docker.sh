@@ -1,3 +1,4 @@
+#!/bin/bash
 # https://github.com/sameersbn/docker-postgresql
 
 docker pull sameersbn/postgresql:12-20200524
